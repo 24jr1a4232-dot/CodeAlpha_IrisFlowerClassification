@@ -1,8 +1,8 @@
 # Iris Flower Classification
 
-**🌸 Iris Flower Classification
+**🌸 Iris Flower Classification**
 
-📌 Objective**
+**📌 Objective**
 
 The objective of this project is to classify Iris flowers into three species:
 Setosa, Versicolor, and Virginica using machine learning techniques.

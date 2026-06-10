@@ -1,4 +1,4 @@
-<img width="1082" height="996" alt="Screenshot 2026-06-10 131304" src="https://github.com/user-attachments/assets/ec42df2e-0612-4c2f-8768-1eceeedb0f1d" /># Iris Flower Classification
+# Iris Flower Classification
 
 🌸 Iris Flower Classification
 📌 Objective

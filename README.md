@@ -1,9 +1,10 @@
-# Iris Flower Classification
+<img width="1082" height="996" alt="Screenshot 2026-06-10 131304" src="https://github.com/user-attachments/assets/ec42df2e-0612-4c2f-8768-1eceeedb0f1d" /># Iris Flower Classification
 
 🌸 Iris Flower Classification
 📌 Objective
 
-The objective of this project is to classify Iris flowers into three species: Setosa, Versicolor, and Virginica using machine learning techniques.
+The objective of this project is to classify Iris flowers into three species:
+Setosa, Versicolor, and Virginica using machine learning techniques.
 
 📊 Dataset
 
@@ -27,7 +28,7 @@ matplotlib
 seaborn
 ⚙️ Methodology
 Loaded the Iris dataset using Scikit-learn
-Performed exploratory data analysis (EDA)
+Performed Exploratory Data Analysis (EDA)
 Visualized feature relationships using graphs
 Split dataset into training and testing sets
 Trained a Random Forest Classifier
@@ -37,8 +38,7 @@ Evaluated model performance using accuracy score
 The model achieved high accuracy on the test dataset, showing strong performance in classifying Iris flower species.
 
 📷 Visualizations
-
-<img width="1082" height="996" alt="Screenshot 2026-06-10 131304" src="https://github.com/user-attachments/assets/2cdca8be-de71-4176-b615-9bc73fcb9bb5" />
+![Output Graph](<img width="1082" height="996" alt="Screenshot 2026-06-10 131304" src="https://github.com/user-attachments/assets/42180aca-f2f5-4742-a0b5-410b1e55c617" />.png)
 
 🧠 Conclusion
 
@@ -46,6 +46,5 @@ Machine learning models can effectively classify Iris flower species based on ph
 
 📁 Repository Name
 CodeAlpha_IrisFlowerClassification
-
 
 # CodeAlpha_IrisFlowerClassificat

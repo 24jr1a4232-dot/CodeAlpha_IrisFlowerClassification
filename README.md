@@ -6,9 +6,12 @@
 **📌 Objective**
 
 The objective of this project is to classify Iris flowers into three species:
-**.**Setosa
-**.**Versicolor
-**.**Virginica using machine learning techniques.  
+
+- Setosa
+
+- Versicolor
+
+- Virginica using machine learning techniques.  
 
 ---
 
@@ -16,37 +19,37 @@ The objective of this project is to classify Iris flowers into three species:
 
 The Iris dataset consists of 150 samples with four features:
 
-**->**Sepal Length
-**->**Sepal Width
-**->**Petal Length
-**->**Petal Width
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
 
 Each sample is labeled into one of three species:
 
-**->**Setosa
-**->**Versicolor
-**->**Virginica  
+- Setosa
+- Versicolor
+- Virginica  
 
 ---
 
 **🛠️ Tools & Libraries**
 
-**->**Python
-**->**pandas
-**->**scikit-learn
-**->**matplotlib
-**->**seaborn  
+- Python
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn  
 
 ---
 
 **⚙️ Methodology**
 
-**->**Loaded the Iris dataset using Scikit-learn
-**->**Performed Exploratory Data Analysis (EDA)
-**->**Visualized feature relationships using graphs
-**->**Split dataset into training and testing sets
-**->**Trained a Random Forest Classifier
-**->**Evaluated model performance using accuracy score  
+- Loaded the Iris dataset using Scikit-learn
+- Performed Exploratory Data Analysis (EDA)
+- Visualized feature relationships using graphs
+- Split dataset into training and testing sets
+- Trained a Random Forest Classifier
+- Evaluated model performance using accuracy score  
 
 ---
 

@@ -5,6 +5,8 @@
 
 The objective of this project is to classify Iris flowers into three species:
 
+---
+
 - Setosa
 
 - Versicolor
@@ -55,7 +57,7 @@ Each sample is labeled into one of three species:
 
 **📈 Results**
 
-The model achieved high accuracy on the test dataset, showing strong performance in classifying Iris flower species.  
+The Random Forest model achieved high accuracy on the test dataset, showing strong performance in classifying Iris flower species.  
 
 ---
 

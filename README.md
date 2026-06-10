@@ -1,5 +1,3 @@
-# Iris Flower Classification
-
 **🌸 Iris Flower Classification**
 ---
 
@@ -11,13 +9,15 @@ The objective of this project is to classify Iris flowers into three species:
 
 - Versicolor
 
-- Virginica using machine learning techniques.  
+- Virginica
+
+ using machine learning techniques.  
 
 ---
 
 **📊 Dataset**
 
-The Iris dataset consists of 150 samples with four features:
+The Iris dataset consists of **150 samples** with four features:
 
 - Sepal Length
 - Sepal Width

@@ -1,39 +1,51 @@
 # Iris Flower Classification
 
-## Objective
+🌸 Iris Flower Classification
+📌 Objective
 
 The objective of this project is to classify Iris flowers into three species: Setosa, Versicolor, and Virginica using machine learning techniques.
 
-## Dataset
+📊 Dataset
 
-The Iris dataset contains 150 flower samples with four features:
+The Iris dataset consists of 150 samples with four features:
 
-* Sepal Length
-* Sepal Width
-* Petal Length
-* Petal Width
+Sepal Length
+Sepal Width
+Petal Length
+Petal Width
 
-## Tools and Libraries
+Each sample is labeled into one of three species:
 
-* Python
-* Pandas
-* Scikit-learn
-* Matplotlib
-* Seaborn
+Setosa
+Versicolor
+Virginica
+🛠️ Tools & Libraries
+Python
+pandas
+scikit-learn
+matplotlib
+seaborn
+⚙️ Methodology
+Loaded the Iris dataset using Scikit-learn
+Performed exploratory data analysis (EDA)
+Visualized feature relationships using graphs
+Split dataset into training and testing sets
+Trained a Random Forest Classifier
+Evaluated model performance using accuracy score
+📈 Results
 
-## Methodology
+The model achieved high accuracy on the test dataset, showing strong performance in classifying Iris flower species.
 
-1. Loaded the Iris dataset.
-2. Performed basic data exploration.
-3. Split the data into training and testing sets.
-4. Trained a Random Forest Classifier.
-5. Evaluated model accuracy.
+📷 Visualizations
 
-## Results
+<img width="1082" height="996" alt="Screenshot 2026-06-10 131304" src="https://github.com/user-attachments/assets/2cdca8be-de71-4176-b615-9bc73fcb9bb5" />
 
-The model achieved high classification accuracy on the test dataset.
+🧠 Conclusion
 
-## Conclusion
+Machine learning models can effectively classify Iris flower species based on physical measurements, demonstrating the power of supervised learning in pattern recognition tasks.
 
-Machine learning can effectively classify Iris flower species based on flower measurements.
-# CodeAlpha_IrisFlowerClassification
+📁 Repository Name
+CodeAlpha_IrisFlowerClassification
+
+
+# CodeAlpha_IrisFlowerClassificat

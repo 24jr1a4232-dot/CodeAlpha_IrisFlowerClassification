@@ -38,7 +38,7 @@ Evaluated model performance using accuracy score
 The model achieved high accuracy on the test dataset, showing strong performance in classifying Iris flower species.
 
 📷 Visualizations
-![Output Graph](<img width="1082" height="996" alt="Screenshot 2026-06-10 131304" src="https://github.com/user-attachments/assets/42180aca-f2f5-4742-a0b5-410b1e55c617" />.png)
+(<img width="1082" height="996" alt="Screenshot 2026-06-10 131304" src="https://github.com/user-attachments/assets/42180aca-f2f5-4742-a0b5-410b1e55c617" />)
 
 🧠 Conclusion
 
